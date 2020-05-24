@@ -1,3 +1,5 @@
+github.com/CN-TU/go-flows v0.0.0-20191011100928-68b64ace54e2 h1:tUOyTXrkZY4inS9FjMJyUXEG1P6267j1SFYwpD7+cXo=
+github.com/CN-TU/go-flows v0.0.0-20191011100928-68b64ace54e2/go.mod h1:NOwAQdm8j41Msp/ET+n2TURNSetNXvEdcp8+QCFLp7k=
 github.com/CN-TU/go-ipfix v0.0.0-20190607191022-b148a3a1167d h1:CmsUsEPzNhU6HcOn+1lYqGntXXl7t+wCau9o5zy4CqU=
 github.com/CN-TU/go-ipfix v0.0.0-20190607191022-b148a3a1167d/go.mod h1:rqCCBF/Eaf+sPvt45YJhc36wDlWwtVMKu/ujfD7esxI=
 github.com/google/gopacket v1.1.17 h1:rMrlX2ZY2UbvT+sdz3+6J+pp2z+msCq9MxTU6ymxbBY=

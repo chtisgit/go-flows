@@ -1,8 +1,8 @@
 package iana
 
 import (
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/packet"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/packet"
 	"github.com/CN-TU/go-ipfix"
 )
 

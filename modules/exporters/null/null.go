@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/util"
 )
 
 type nullExporter struct {

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 )

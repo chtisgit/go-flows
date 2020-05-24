@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 )
 
 // BoolInt returns 1 if b is true, otherwise 0

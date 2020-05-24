@@ -4,7 +4,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 )
 
 /*

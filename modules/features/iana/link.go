@@ -5,8 +5,8 @@ import (
 
 	"github.com/google/gopacket/layers"
 
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/packet"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/packet"
 )
 
 type layer2OctetTotalCountPacket struct {

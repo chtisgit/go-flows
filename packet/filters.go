@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/util"
 	"github.com/google/gopacket"
 )
 

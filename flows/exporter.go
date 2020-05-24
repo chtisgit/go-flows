@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/util"
 )
 
 const debugSort = false

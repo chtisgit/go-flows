@@ -4,8 +4,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/CN-TU/go-flows/packet"
-	"github.com/CN-TU/go-flows/packet_test"
+	"github.com/chtisgit/go-flows/packet"
+	"github.com/chtisgit/go-flows/packet_test"
 	"github.com/google/gopacket/layers"
 )
 

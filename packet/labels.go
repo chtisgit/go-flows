@@ -3,7 +3,7 @@ package packet
 import (
 	"io"
 
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/util"
 )
 
 const labelName = "label"

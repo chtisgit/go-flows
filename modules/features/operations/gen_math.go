@@ -39,7 +39,7 @@ const heading = `package operations
 
 import (
 	"math"
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 )
 
 `

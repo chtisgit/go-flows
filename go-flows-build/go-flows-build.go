@@ -17,7 +17,7 @@ import (
 
 var thisPath string
 var modulePath string
-var moduleImport = "github.com/CN-TU/go-flows/modules"
+var moduleImport = "github.com/chtisgit/go-flows/modules"
 
 func init() {
 	_, f, _, _ := runtime.Caller(0)

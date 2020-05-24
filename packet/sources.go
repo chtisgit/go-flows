@@ -4,7 +4,7 @@ import (
 	"io"
 	"sync/atomic"
 
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/util"
 	"github.com/google/gopacket"
 )
 

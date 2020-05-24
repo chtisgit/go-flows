@@ -3,9 +3,9 @@ package iana
 import (
 	"encoding/binary"
 
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/modules/features"
-	"github.com/CN-TU/go-flows/packet"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/modules/features"
+	"github.com/chtisgit/go-flows/packet"
 )
 
 type sourceTransportPortFlow struct {

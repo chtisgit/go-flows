@@ -13,8 +13,8 @@ import (
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
 
-	"github.com/CN-TU/go-flows/packet"
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/packet"
+	"github.com/chtisgit/go-flows/util"
 	"github.com/google/gopacket"
 )
 

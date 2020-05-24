@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 )
 
 // TypedSlice is a slice that can hold uint64, int64, bool, string, or []slice

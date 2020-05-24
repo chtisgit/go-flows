@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 	"github.com/google/gopacket"
 )
 

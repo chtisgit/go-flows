@@ -1,7 +1,7 @@
 package features
 
 import (
-	"github.com/CN-TU/go-flows/packet"
+	"github.com/chtisgit/go-flows/packet"
 	"github.com/google/gopacket/layers"
 )
 

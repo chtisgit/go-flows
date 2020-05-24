@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/CN-TU/go-flows/flows"
-	_ "github.com/CN-TU/go-flows/modules/features/nta"
+	"github.com/chtisgit/go-flows/flows"
+	_ "github.com/chtisgit/go-flows/modules/features/nta"
 	ipfix "github.com/CN-TU/go-ipfix"
 )
 

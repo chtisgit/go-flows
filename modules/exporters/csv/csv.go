@@ -14,8 +14,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/util"
 	ipfix "github.com/CN-TU/go-ipfix"
 )
 

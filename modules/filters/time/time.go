@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/CN-TU/go-flows/packet"
-	"github.com/CN-TU/go-flows/util"
+	"github.com/chtisgit/go-flows/packet"
+	"github.com/chtisgit/go-flows/util"
 	"github.com/google/gopacket"
 )
 

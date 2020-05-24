@@ -1,6 +1,6 @@
 package operations
 
-import "github.com/CN-TU/go-flows/flows"
+import "github.com/chtisgit/go-flows/flows"
 
 type forward struct {
 	flows.EmptyBaseFeature

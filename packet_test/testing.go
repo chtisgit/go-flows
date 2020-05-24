@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CN-TU/go-flows/flows"
-	"github.com/CN-TU/go-flows/packet"
+	"github.com/chtisgit/go-flows/flows"
+	"github.com/chtisgit/go-flows/packet"
 )
 
 // FeatureResult holds the result for the named feature

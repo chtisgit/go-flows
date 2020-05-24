@@ -4,7 +4,7 @@ package operations
 // Generated at 2019-01-14 16:24:04.23343348 +0100 CET m=+0.001406589
 
 import (
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 	"math"
 )
 

@@ -1,6 +1,6 @@
 package builtin
 
-import "github.com/CN-TU/go-flows/packet"
+import "github.com/chtisgit/go-flows/packet"
 
 func sourceMacAddressKey(packet packet.Buffer, scratch, scratchNoSort []byte) (int, int) {
 	link := packet.LinkLayer()

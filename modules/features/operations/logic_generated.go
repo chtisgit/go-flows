@@ -4,7 +4,7 @@ package operations
 // Generated at 2019-05-03 16:04:30.469237292 +0200 CEST m=+0.000798366
 
 import (
-	"github.com/CN-TU/go-flows/flows"
+	"github.com/chtisgit/go-flows/flows"
 	ipfix "github.com/CN-TU/go-ipfix"
 )
 

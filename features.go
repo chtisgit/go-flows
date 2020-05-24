@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/CN-TU/go-flows/flows"
-	_ "github.com/CN-TU/go-flows/packet" //initialize features
+	"github.com/chtisgit/go-flows/flows"
+	_ "github.com/chtisgit/go-flows/packet" //initialize features
 )
 
 func init() {
